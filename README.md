@@ -1,5 +1,5 @@
 ### Hi there 👋
- I'm Samah, a future Frontend Developer. I'm currently learning Javascript, HTML, CSS and Wordpress and based in Norway.
+ I'm Samah, a future Frontend Developer.Currently based in Norway and i'm learning Javascript, HTML, CSS and Wordpress.
 
 
 
